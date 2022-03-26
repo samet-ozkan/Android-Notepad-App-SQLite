@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Notepad</string>
+    <string name="notes">Notes</string>
+    <string name="labels">Labels</string>
+    <string name="trash">Trash</string>
+    <string name="all_notes">All Notes</string>
+    <string name="all_labels">All Labels</string>
+    <string name="new_note">New Note</string>
+    <string name="favorites">favorites</string>
+    <string name="title">Title</string>
+    <string name="text">Text</string>
+    <string name="date">Date</string>
+    <string name="unlabeled">Unlabeled</string>
+    <string name="enter_label">Enter label</string>
+    <string name="show_labels">Show Labels</string>
+    <string name="close">Close</string>
+    <string name="save">Save</string>
+    <string name="add_note">Add Note</string>
+    <string name="delete">Delete</string>
+    <string name="label">Label</string>
+    <string name="favorite">Favorite</string>
+    <string name="add_remove_to_favorites">Add/Remove to Favorites</string>
+    <string name="right_arrow">Right Arrow</string>
+    <string name="down_arrow">Down Arrow</string>
+</resources>
