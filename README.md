@@ -17,12 +17,12 @@
 </ul>
 
 <h1>Screenshots</h1>
-<p><img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195142.png" width="20%" height="20%"> 
-<img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195149.png" width="20%" height="20%">
-<img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195154.png" width="20%" height="20%"></p> 
+<p><img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195142.png" width="25%" height="25%"> 
+<img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195149.png" width="25%" height="25%">
+<img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195154.png" width="25%" height="25%"></p> 
 
-<p><img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195210.png" width="20%" height="20%">
-<img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195314.png" width="20%" height="20%"></p>
+<p><img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195210.png" width="25%" height="25%">
+<img src="https://github.com/samet-ozkan/Android-Notepad-App-SQLite/blob/main/Screenshots/Screenshot_20220326-195314.png" width="25%" height="25%"></p>
   
   
   
